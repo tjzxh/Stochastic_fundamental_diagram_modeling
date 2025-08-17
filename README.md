@@ -27,7 +27,7 @@ Traffic fundamental diagram and its inherent **stochasticity** remain key challe
 
 ## 🗂️ Code Components / 代码说明  
 
-| File | Purpose (English) | 功能（中文） |
+| File | Function | 功能 |
 |------|-------------------|-------------|
 | **`fd_data.py`** | Aggregate the Fundamental Diagram (FD) from trajectory data | 从轨迹数据聚合基本图 |
 | **`fd_data_frame.py`** | Aggregate the FD from each frame of trajectory data | 基于每一帧轨迹数据聚合基本图 |
