@@ -5,8 +5,9 @@
 **Official Code Repository for the Article：**  
 [On the Stochastic Fundamental Diagram: A General Micro-Macroscopic Traffic Flow Modeling Framework](https://doi.org/10.1016/j.commtr.2025.100163)  
 
-![SFD Illustration](https://github.com/user-attachments/assets/6244bcb9-83f5-424b-8183-b468a0c37753)
-
+<p align="center">
+  <img src="/SFD_eng.svg" width="100%" />
+</p>
 
 ## 📖 Overview / 简介  
 
@@ -20,6 +21,9 @@ Traffic fundamental diagram and its inherent **stochasticity** remain key challe
 - 📈 Analytical mean and variance functions of the stochastic fundamental diagram (SFD)/推导了随机基本图的**均值与方差解析函数** 
 - ✅ Validation on **NGSIM I-80**, **US-101**, and **HighD** datasets/在 **NGSIM I-80**、**US-101**、**HighD** 数据集上验证有效性  
 
+<p align="center">
+  <img src="/SFD_zh.svg" width="100%" />
+</p>
 
 ## 🗂️ Code Components / 代码说明  
 
