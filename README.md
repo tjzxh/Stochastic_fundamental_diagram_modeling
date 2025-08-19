@@ -44,17 +44,4 @@ Traffic fundamental diagram and its inherent **stochasticity** remain key challe
 ## 📚 Citation / 引用  
 
 If you use this code, please cite our paper:  
-
-```bibtex
-@article{ZHANG2025100163,
-title = {On the stochastic fundamental diagram: A general micro-macroscopic traffic flow modeling framework},
-journal = {Communications in Transportation Research},
-volume = {5},
-pages = {100163},
-year = {2025},
-issn = {2772-4247},
-doi = {https://doi.org/10.1016/j.commtr.2025.100163},
-url = {https://www.sciencedirect.com/science/article/pii/S2772424725000034},
-author = {Xiaohui Zhang and Jie Sun and Jian Sun},
-keywords = {Stochastic fundamental diagram, Brownian dynamic, Markov chain, Maximum entropy}
-}
+Zhang, X., Yang, K., Sun, J., & Sun, J. (2025). Stochastic fundamental diagram modeling of mixed traffic flow: A data-driven approach. Transportation Research Part C: Emerging Technologies, 179, 105279. https://doi.org/10.1016/j.trc.2025.105279.
